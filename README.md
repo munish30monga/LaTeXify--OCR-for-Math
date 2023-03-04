@@ -1,4 +1,4 @@
-# Latexify
+# Latexify- OCR for Math
 A machine learning model to convert handwritten text to LaTeX code.
 
 # Dependencies
