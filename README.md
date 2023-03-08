@@ -1,5 +1,6 @@
 # Latexify- OCR for Math
-A machine learning model to convert handwritten text to LaTeX code.
+A machine learning model that takes images of handwritten mathematical expressions as
+input and generates equivalent LATEX representations for the same.
 
 # Dependencies
 Install miniconda from [here](https://docs.conda.io/en/latest/miniconda.html "Miniconda Installation Page"). Create a conda virtual environment and install necessary dependencies using the following command. Activate the virtual environment to use installed packages.
